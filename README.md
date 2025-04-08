@@ -113,8 +113,7 @@ cp .env.example .env
     # Required for the default search tool (if using Tavily)
     # TAVILY_API_KEY="your_tavily_api_key"
     # Add API keys for other tools as needed, e.g.:
-    # GOOGLE_API_KEY="your_google_search_api_key"
-    # LINKEDIN_API_KEY="your_linkedin_api_key"
+  
     # ... etc ...
 
     # Required for the language model (choose one or more)
